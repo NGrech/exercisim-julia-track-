@@ -15,3 +15,4 @@ I will will use this repo to keep track of all the main and side exercises that 
 
 - [Bob](https://exercism.io/tracks/julia/exercises/bob/solutions/4d8a3868c47d45b4b1036420ea910668)
 - [Phone number](https://exercism.io/tracks/julia/exercises/phone-number/solutions/3f15361d3c85405287611c91f13ba720)
+- [Triangle](https://exercism.io/tracks/julia/exercises/triangle/solutions/9f69ffcdcf2d4d10ac514fbec9e52863)
