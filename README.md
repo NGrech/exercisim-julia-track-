@@ -10,6 +10,8 @@ I will will use this repo to keep track of all the main and side exercises that 
 ## Main track exercises
 
 - [Hello world](https://exercism.io/tracks/julia/exercises/hello-world/solutions/fdf5d96d26ae412f8574577668cb6f51)
+- [Leap](https://exercism.io/tracks/julia/exercises/leap/solutions/5f211899fa68481aa4075cf01e32d93a)
+- [Nucleotide Count]()
 
 ## Side exercises
 
