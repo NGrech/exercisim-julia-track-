@@ -1,10 +1,11 @@
-# Overview 
+# Overview
 
 I want to learn how to develop in Julia, since I like to learn by doing I am going to complete the [Exercism Julia track](https://exercism.io/tracks/julia).
 
 I will will use this repo to keep track of all the main and side exercises that I complete.
 
 # Exercised completed
+
 > Note that the links will take you to my solutions on Exercism.io
 
 ## Main track exercises
@@ -19,3 +20,4 @@ I will will use this repo to keep track of all the main and side exercises that 
 - [Phone number](https://exercism.io/tracks/julia/exercises/phone-number/solutions/3f15361d3c85405287611c91f13ba720)
 - [Triangle](https://exercism.io/tracks/julia/exercises/triangle/solutions/9f69ffcdcf2d4d10ac514fbec9e52863)
 - [Hamming](https://exercism.io/tracks/julia/exercises/hamming/solutions/3c3e491639f8418b9bdb1acecc14d6c8)
+- [Darts](https://exercism.io/tracks/julia/exercises/darts/solutions/96c1ceda6312429397b406c89b7d3ee4)
