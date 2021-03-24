@@ -8,7 +8,7 @@ Invalid strands raise a `DomainError`.
 """
 function count_nucleotides(strand)
     
-    nucletoides = Dict{Char, UInt}([('A', 0), ('C', 0), ('G', 0), ('T', 0)])
+    nucletoides = Dict{Char, Int}(c => 0 for c in "ATGC")
     for n in strand
         if n in keys(nucletoides)
             nucletoides[n] += 1
